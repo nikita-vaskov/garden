@@ -201,6 +201,8 @@ body {
 .footer {
 	background-color: #9bc997;
 	margin: 20px 0px 0px 0px;
+	border-top-left-radius: 100px;
+	border-top-right-radius: 100px;
 }
 
 .footer__row {
